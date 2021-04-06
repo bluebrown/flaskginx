@@ -11,4 +11,4 @@ Run both containers
 make clean && make install && make run
 ```
 
-Visit the page at http://127.0.0.1:2000
+Visit the page at http://127.0.0.1:2000 or render your *personal* name at http://127.0.0.1:2000/hello/yourname
