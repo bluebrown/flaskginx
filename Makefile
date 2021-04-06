@@ -9,5 +9,4 @@ run:
 
 clean:
 	docker stop nginx flask || true
-	docker stop nginx flask || true
 	docker network rm flaskginx || true
